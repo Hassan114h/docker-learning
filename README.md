@@ -8,7 +8,7 @@ During my learning of Containers and Docker I covered a range of essential topic
 - Multi-stage builds for optimized image creation  
 - An introduction to container orchestration tools like Kubernetes
 
-To conclude my learning, I completed a hands-on challenge by building a small project: a Flask application connected to a Redis database that tracks the number of visits.
+To conclude my learning, I completed a hands-on challenge by building a small project(check out the folder called challenge): a Flask application connected to a Redis database that tracks the number of visits.
 
 See my progress below. I’ll continue customising it and adding cool features over time!
 
